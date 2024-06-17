@@ -1,0 +1,1 @@
+Transformer的这种架构从更普遍的角度来看，其实是Seq2Seq架构
