@@ -1,7 +1,7 @@
 # GLM
 from zhipuai import ZhipuAI
 
-client = ZhipuAI(api_key="") # 请填写您自己的APIKey
+client = ZhipuAI(api_key="e88835d488c5c1e8f922bbce6924d2ad.OB4kY1FEgGw21z4f") # 请填写您自己的APIKey
 
 messages = [{"role": "system", "content": "你是一个乐于解答各种问题的助手，你的任务是为用户提供专业、准确、有见地的建议。"},
             {"role": "user", "content": "请你介绍一下Datawhale。"},]
